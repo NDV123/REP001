@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CallerMemberName.exe" size="13312">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CallerMemberName.exe" size="14336">
       <assemblyIdentity name="CallerMemberName" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DRE/MtxnLoYKXfXEELgZZo0jeAZYrP0jOqK7nCGYMZs=</dsig:DigestValue>
+        <dsig:DigestValue>Gen19MZIHIriOtpJHleGqbAk6DWb9pN71d0xR8M5d2M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

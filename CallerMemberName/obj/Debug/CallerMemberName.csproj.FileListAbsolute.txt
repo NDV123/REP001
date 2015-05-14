@@ -16,3 +16,4 @@ c:\users\nick\documents\visual studio 2013\Projects\Work\CallerMemberName\Caller
 c:\users\nick\documents\visual studio 2013\Projects\Work\CallerMemberName\CallerMemberName\CallerMemberName\bin\Debug\CallerMemberName.application
 c:\users\nick\documents\visual studio 2013\Projects\Work\CallerMemberName\CallerMemberName\CallerMemberName\obj\Debug\CallerMemberName.exe.manifest
 c:\users\nick\documents\visual studio 2013\Projects\Work\CallerMemberName\CallerMemberName\CallerMemberName\obj\Debug\CallerMemberName.application
+c:\users\nick\documents\visual studio 2013\Projects\Work\CallerMemberName\CallerMemberName\CallerMemberName\obj\Debug\CallerMemberName.csprojResolveAssemblyReference.cache
